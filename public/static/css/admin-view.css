@@ -1,0 +1,47 @@
+.contenedor {
+    overflow: auto;
+    max-height: 650px;
+    text-decoration: none;
+
+}
+
+.card {
+    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.2), 0 8px 10px 0 rgba(0, 0, 0, 0.35);
+    position: relative;
+
+}
+
+.jumbotron {
+    width: 100%;
+    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.5), 0 5px 5px 0 rgba(0, 0, 0, 0.20);
+}
+
+.col-6 {
+    align-items: center;
+}
+
+.cnt-footer {
+    position: absolute;
+}
+
+/* .textinput {
+    height: auto;
+    width: 100%;
+    min-height: 75px;
+} */
+
+.form-control {
+    border-color: gray;
+}
+
+.btn-info {
+    align-items: left;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.grid {
+    position: relative;
+}

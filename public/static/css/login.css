@@ -1,0 +1,151 @@
+ body {
+     background: url(../images/ut.jpg) no-repeat center center fixed;
+     background-size: cover;
+ }
+
+ .main-section {
+     margin: 0 auto;
+     margin-top: 30%;
+     padding: 0;
+ }
+
+ .modal-content {
+     background-color: #fafafa;
+     opacity: .85;
+     padding: 0 10px;
+     box-shadow: 0px 0px 90px #848484;
+ }
+
+ .user-img {
+     margin-top: -50px;
+     margin-bottom: 35px;
+ }
+
+ .user-img img {
+     width: 100xp;
+     height: 120px;
+     box-shadow: 0px 0px 3px black;
+     border-radius: 50%;
+ }
+
+ .form-group input {
+     border-color: #848484;
+     height: 42px;
+     font-size: 18px;
+     font-style: arial;
+     border: 20 black;
+     padding-left: 51px;
+     border-radius: 100px;
+ }
+
+ .form-group::before {
+     font-family: "Font Awesome\ 5 Free";
+     position: absolute;
+     left: 32px;
+     font-size: 22px;
+     padding-top: 4px;
+ }
+
+ .form-group#user-group::before {
+     content: "\f007";
+ }
+
+ .form-group#contrasena-group::before {
+     content: "\f070";
+ }
+
+ button {
+     width: 75%;
+     margin: 4px 0 15px;
+     content: "\f35a";
+ }
+
+ a {
+     width: 75%;
+     margin: 4px 0 15px;
+     content: "\f35a";
+ }
+
+ .forgot {
+     padding: 5px 0;
+ }
+
+ .forgot a {
+     color: white;
+ }
+
+ body {
+     background: url(../images/ut.jpg) no-repeat center center fixed;
+     background-size: cover;
+ }
+
+ .main-section {
+     margin: 0 auto;
+     margin-top: 30%;
+     padding: 0;
+ }
+
+ .modal-content {
+     background-color: #fafafa;
+     opacity: .85;
+     padding: 0 10px;
+     box-shadow: 0px 0px 90px #848484;
+ }
+
+ .user-img {
+     margin-top: -50px;
+     margin-bottom: 35px;
+ }
+
+ .user-img img {
+     width: 100xp;
+     height: 120px;
+     box-shadow: 0px 0px 3px black;
+     border-radius: 50%;
+ }
+
+ .form-group input {
+     border-color: #848484;
+     height: 42px;
+     font-size: 18px;
+     font-style: arial;
+     border: 20 black;
+     padding-left: 51px;
+     border-radius: 100px;
+ }
+
+ .form-group::before {
+     font-family: "Font Awesome\ 5 Free";
+     position: absolute;
+     left: 32px;
+     font-size: 22px;
+     padding-top: 4px;
+ }
+
+ .form-group#user-group::before {
+     content: "\f007";
+ }
+
+ .form-group#password-group::before {
+     content: "\f070";
+ }
+
+ button {
+     width: 75%;
+     margin: 4px 0 15px;
+     content: "\f35a";
+ }
+
+ a {
+     width: 75%;
+     margin: 4px 0 15px;
+     content: "\f35a";
+ }
+
+ .forgot {
+     padding: 5px 0;
+ }
+
+ .forgot a {
+     color: white;
+ }
